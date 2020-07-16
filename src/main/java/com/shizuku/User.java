@@ -7,6 +7,7 @@ package com.shizuku;
 public class User {
     private int age;
     private int addr;
+    private int phoneNum;
     public static void main(String[] args) {
         System.out.println("用户……");
         System.out.println("第二次修改");
